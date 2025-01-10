@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/SamieTechGuy/Active-Directory-Lab/tree/main)
 - [Configuring Domain Joined Workstations](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Deployment of Active Directory](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Server Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
